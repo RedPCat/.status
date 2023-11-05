@@ -5,7 +5,7 @@ date: 2023-11-05T04:10:38.397Z
 resolved: false
 draft: false
 informational: true
-pin: false
+pin: true
 resolvedWhen: 2023-11-05T04:08:00.221Z
 affected:
   - Minecraft
