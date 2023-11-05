@@ -49,7 +49,7 @@ params:
   brand: "#ffffff"
   enableLastMod: true
   headerTextColor: white
-  logo: logo.png
+  logo: /img/redcatware-w-text-no-llc-dark-text-.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
