@@ -2,11 +2,11 @@
 section: issue
 title: Emergency Maintenance.
 date: 2023-11-05T05:07:51.104Z
-resolved: false
+resolved: true
 draft: false
-informational: true
-pin: true
-resolvedWhen: 2023-11-05T05:08:18.737Z
+informational: false
+pin: false
+resolvedWhen: 2023-11-05T13:58:57.835Z
 affected:
   - Minecraft
   - CDN
@@ -15,3 +15,7 @@ affected:
 severity: down
 ---
 *Notice* - All redcatWare services will be going offline at 1AM Eastern for Emergency Maintenance from NetroCorp. Servers are predicted to go back up at 8AM.
+
+
+
+*Notice* - All Services went back up due to an issue with Jahy's firmware from NetroCorp.
