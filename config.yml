@@ -36,7 +36,15 @@ params:
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
-  systems: []
+  systems:
+    - name: Site
+      category: North America - East
+    - name: CDN
+      category: North America - East
+    - name: Repos
+      category: North America - East
+    - name: Minecraft
+      category: North America - East
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#b50c00"
   enableLastMod: true
