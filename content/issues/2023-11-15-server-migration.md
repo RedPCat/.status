@@ -2,10 +2,10 @@
 section: issue
 title: Server Migration
 date: 2023-11-16T11:00:00.000Z
-resolved: false
+resolved: true
 draft: false
 informational: true
-pin: true
+pin: false
 resolvedWhen: 2023-11-16T13:30:24.823Z
 affected:
   - Minecraft
