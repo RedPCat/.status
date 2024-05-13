@@ -2,7 +2,7 @@ title: redcatWare Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://status.redcatware.net
+baseURL: https://status.redcatware.ne
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
